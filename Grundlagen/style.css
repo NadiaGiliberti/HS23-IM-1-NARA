@@ -1,0 +1,47 @@
+body {
+  background-image: linear-gradient(rgba(202, 104, 185, 0.813), rgba(101, 104, 4, 0.42), rgba(117, 102, 165, 0.699)), url(Images/freigestellte\ katze.png);
+
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 150px;
+  text-align: center;
+  font-family: 'Segoe UI', 'Segoe UI', Tahoma, Verdana, sans-serif Verdana, sans-serif;
+  font-style: italic;
+  background-color: rgb(71, 2, 73);
+  padding: 30px;
+  margin: -1px;
+  border-block: solid;
+
+}
+
+h2 {
+  color: rgb(75, 19, 128);
+  text-align: center;
+  font-size: 130px;
+
+}
+
+h3 {
+  color: rgb(30, 185, 24);
+  font-style: bold;
+  text-align: center;
+  font-size: 70px;
+   
+}
+
+p { 
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 50px;
+
+}
+
+li { 
+  font-style: bold;
+  font-size: 30px;
+  text-align: center;
+
+}

@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(236, 197, 235);
+    background-blend-mode: color;
+    text-align: center;
+
+} 
+h1 {
+    color: rgb(48, 8, 67);
+    font: bold ;
+    font-size: 72px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+h2 { 
+    color: blueviolet;
+    font: bold;
+    font-style: bold;
+    font-size: 40px;
+    text-align: center;
+}
+ p {
+    border: 5px solid violet;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+ }
+
+ .bold-link {
+    font-weight: bold;
+
+
+
+ }
